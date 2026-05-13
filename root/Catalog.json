@@ -1,7 +1,25 @@
-[
- {
-   "Grade": 1,
-   "Unit": 1,
-   "ID": "101_1"
- }
-]
+{
+  "interactives": [
+    {
+      "gameID": "101_1",
+      "title": "Mga Babala sa Paligid",
+      "grade": "Grade 1",
+      "category": "Pagbasa",
+      "unit": "Unit 1"
+    },
+    {
+      "gameID": "101_2",
+      "title": "Tono at Intonasyon",
+      "grade": "Grade 1",
+      "category": "Pagbasa",
+      "unit": "Unit 1"
+    },
+    {
+      "gameID": "201_1",
+      "title": "Numbers and Counting",
+      "grade": "Grade 2",
+      "category": "Matematika",
+      "unit": "Unit 1"
+    }
+  ]
+}
