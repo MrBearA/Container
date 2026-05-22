@@ -1,0 +1,61 @@
+<Itembank>
+  <Level1>
+	  <Item>
+		  <Question>Sino ang kausap ng batang lalaki?</Question>
+		  <Correct>Nanay</Correct>
+		  <Choices>Nanay|Kaibigan|Lolo</Choices>
+	  </Item>
+
+	  <Item>
+		  <Question>Alin ang magalang na pananalita sa paghingi ng pahintulot?</Question>
+		  <Correct>“Maaari po ba…?”</Correct>
+		  <Choices>“Maaari po ba…?”|“Bilis, alis na!”|“Sige na nga!”</Choices>
+	  </Item>
+
+	  <Item>
+		  <Question>Sa kuwento, ano ang unang halimbawa ng paghingi ng pahintulot?</Question>
+		  <Correct>Pag-inom ng tubig sa klase</Correct>
+		  <Choices>Pag-inom ng tubig sa klase|Pag-uwi sa bahay|Pagbili sa tindahan</Choices>
+	  </Item>
+
+	  <Item>
+		  <Question>Bakit mahalagang gumamit ng “po” kapag humihingi ng pahintulot?</Question>
+		  <Correct>Para maging magalang</Correct>
+		  <Choices>Para maging magalang|Para mas mabilis tumakbo|Para mas mataas ang boses</Choices>
+	  </Item>
+
+	  <Item>
+		  <Question>Alin ang tamang sasabihin kapag lalabas ng silid?</Question>
+		  <Correct>“Guro, pahintulot po. Maaari po ba akong lumabas sandali?”</Correct>
+		  <Choices>“Guro, pahintulot po. Maaari po ba akong lumabas sandali?”|“Aalis na ako!”| “Tapos na!”</Choices>
+	  </Item>
+	  
+  </Level1>
+
+  <Level2>
+    <Item><Question>Question1</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question2</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question3</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question4</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question5</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question6</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question7</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question8</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question9</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question10</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+  </Level2>
+  
+  <Level3>
+    <Item><Question>Question1</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question2</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question3</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question4</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question5</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question6</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question7</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question8</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question9</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question10</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+  </Level3>
+
+</Itembank>
