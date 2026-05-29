@@ -3,22 +3,22 @@
     {
       "gameID": "101_1",
       "title": "Mga Babala sa Paligid",
-      "grade": "Grade 1",
-      "category": "Pagbasa",
+      "grade": "Grade 2",
+      "category": "Pagbasa at Pakikinig",
       "unit": "Unit 1"
     },
     {
       "gameID": "103_1",
       "title": "Paghingi ng Pahintulot",
-      "grade": "Grade 1",
-      "category": "Pagbasa",
+      "grade": "Grade 2",
+      "category": "Pagbasa at Pakikinig",
       "unit": "Unit 1"
     },
     {
-      "gameID": "201_1",
-      "title": "Numbers and Counting",
+      "gameID": "104_1",
+      "title": "Ang Payo ni Mina",
       "grade": "Grade 2",
-      "category": "Matematika",
+      "category": "Pagbasa at Pakikinig",
       "unit": "Unit 1"
     }
   ]

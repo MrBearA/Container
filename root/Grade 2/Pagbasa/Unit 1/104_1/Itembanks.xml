@@ -1,0 +1,37 @@
+<Itembank>
+  <Level1>
+        <Item><Question>Sino ang bida sa kuwento?</Question><Correct>Mina</Correct><Choices>Mina| Lolo Ben| Ana</Choices></Item>
+	    <Item><Question>Saan nakilala ni Mina si Lolo Ben?</Question><Correct>Sa tindahan</Correct><Choices>Sa tindahan|Sa paaralan|Sa palengke</Choices></Item>
+	    <Item><Question>Ano ang ipinahiram ni Lolo Ben kay Mina?</Question><Correct> Payong</Correct><Choices> Payong|Bag| Libro</Choices></Item>
+	    <Item><Question>Bakit nabasa si Mina?</Question><Correct>Umulan at wala siyang payong</Correct><Choices>Umulan at wala siyang payong|Naglaro siya sa putik|Tumalon siya sa tubig</Choices></Item>
+	    <Item><Question>Ano ang magandang aral sa kuwento?</Question><Correct>Tumulong at maging magalang</Correct><Choices>Tumulong at maging magalang|Maglakad nang mabagal|Maglaro sa ulan araw-araw</Choices></Item>
+
+  </Level1>
+
+  <Level2>
+    <Item><Question>Question1</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question2</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question3</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question4</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question5</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question6</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question7</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question8</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question9</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question10</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+  </Level2>
+  
+  <Level3>
+    <Item><Question>Question1</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question2</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question3</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question4</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question5</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question6</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question7</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question8</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question9</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question10</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+  </Level3>
+
+</Itembank>
