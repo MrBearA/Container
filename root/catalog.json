@@ -1,22 +1,22 @@
 {
   "interactives": [
     {
+      "gameID": "104_1",
+      "title": "Ang Payo ni Mina",
+      "grade": "Grade 2",
+      "category": "Pagbasa at Pakikinig",
+      "unit": "Kabanata 3"
+    },
+    {
       "gameID": "101_1",
       "title": "Mga Babala sa Paligid",
       "grade": "Grade 2",
       "category": "Pagbasa at Pakikinig",
-      "unit": "Unit 1"
+      "unit": "Kabanata 3"
     },
     {
       "gameID": "103_1",
       "title": "Paghingi ng Pahintulot",
-      "grade": "Grade 2",
-      "category": "Pagbasa at Pakikinig",
-      "unit": "Unit 1"
-    },
-    {
-      "gameID": "104_1",
-      "title": "Ang Payo ni Mina",
       "grade": "Grade 2",
       "category": "Pagbasa at Pakikinig",
       "unit": "Unit 1"
