@@ -28,6 +28,38 @@
       "grade": "Grade 2",
       "category": "Pagbasa at Pakikinig",
       "unit": "Kabanata 4"
+    },
+
+    {
+      "gameID": "105_1",
+      "title": "Paggamit ng Sangguniang Babasahin",
+      "grade": "Grade 3",
+      "category": "Pagbasa at Pakikinig",
+      "unit": "Kabanata 3"
+    },
+
+    {
+      "gameID": "106_1",
+      "title": "Kuwentong-bayan",
+      "grade": "Grade 3",
+      "category": "Pagbasa at Pakikinig",
+      "unit": "Kabanata 3"
+    },
+
+    {
+      "gameID": "107_1",
+      "title": "Opinyon at katotohanan",
+      "grade": "Grade 3",
+      "category": "Pagbasa at Pakikinig",
+      "unit": "Kabanata 4"
+    },
+
+    {
+      "gameID": "108_1",
+      "title": "Grap at Mapa",
+      "grade": "Grade 3",
+      "category": "Pagbasa at Pakikinig",
+      "unit": "Kabanata 4"
     }
   ]
 }

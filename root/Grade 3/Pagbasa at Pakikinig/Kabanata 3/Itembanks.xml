@@ -1,0 +1,61 @@
+<Itembank>
+  <Level1>
+	  <Item>
+		  <Question>Ano ang paksa ng aralin?</Question>
+		  <Correct>Paggamit ng sangguniang babasahin</Correct>
+		  <Choices>Paggamit ng sangguniang babasahin|Pagkukulay|Pag-awit</Choices>
+	  </Item>
+
+	  <Item>
+		  <Question>Alin ang ginagamit para hanapin ang kahulugan ng salita?</Question>
+		  <Correct>Diksyunaryo</Correct>
+		  <Choices>Diksyunaryo|Notebook|Talaan ng nilalaman</Choices>
+	  </Item>
+
+	  <Item>
+		  <Question>Alin ang bahagi ng libro na tumutulong hanapin ang pahina ng paksa?</Question>
+		  <Correct>Talaan ng nilalaman</Correct>
+		  <Choices>Talaan ng nilalaman|Pabalat|Larawan</Choices>
+	  </Item>
+
+	  <Item>
+		  <Question>Bakit kapaki-pakinabang ang glosaryo?</Question>
+		  <Correct>Para maintindihan ang bagong salita</Correct>
+		  <Choices>Para maintindihan ang bagong salita|Para pumili ng laro|Para gumawa ng guhit</Choices>
+	  </Item>
+
+	  <Item>
+		  <Question>Ano ang makatutulong para mas mabilis kang makahanap ng impormasyon sa binabasa?</Question>
+		  <Correct>Paggamit ng sangguniang babasahin</Correct>
+		  <Choices>Paggamit ng sangguniang babasahin|Pagtingin sa larawan|Pagbilang ng lapis</Choices>
+	  </Item>
+
+  </Level1>
+
+  <Level2>
+    <Item><Question>Question1</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question2</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question3</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question4</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question5</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question6</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question7</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question8</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question9</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question10</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+  </Level2>
+  
+  <Level3>
+    <Item><Question>Question1</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question2</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question3</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question4</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question5</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question6</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question7</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question8</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question9</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question10</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+  </Level3>
+
+</Itembank>
