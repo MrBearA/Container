@@ -1,0 +1,66 @@
+<Itembank>
+  <Level1>
+	  <Item>
+		  <Question>Ano ang ipinakiusap ng nanay na ihiwalay sa ibang basura?</Question>
+		  <Correct> Bote, lata, at papel</Correct>
+		  <Choices> Bote, lata, at papel|Pagkain, damit, at laruan|Tubig, sabon, at basahan</Choices>
+	  </Item>
+	  <Item>
+		  <Question>Bakit mahalaga ang maayos na paghihiwalay ng basura ayon sa tatay?</Question>
+		  <Correct>Para mas madaling maipadala sa pagre-recycle</Correct>
+		  <Choices>Para mas madaling maipadala sa pagre-recycle|Para mas mabilis maluto ang pagkain|Para dumami ang basura sa bahay</Choices>
+	  </Item>
+	  <Item>
+		  <Question> Saan ilalagay ang mga bote at lata?</Question>
+		  <Correct>Sa kahong nakalaan para sa recyclable</Correct>
+		  <Choices>Sa kahong nakalaan para sa recyclable| Sa bag ng nabubulok|Sa palanggana ng tubig</Choices>
+	  </Item>
+	  <Item>
+		  <Question>Ano ang dapat gawin bago ilagay ang bote at lata sa recyclable box?</Question>
+		  <Correct>Siguraduhing malinis at tuyo</Correct>
+		  <Choices>Siguraduhing malinis at tuyo|Durugin at itapon agad| Lagyan ng pagkain sa loob</Choices>
+	  </Item>
+	  <Item>
+		  <Question>Bakit dapat hiwalay ang papel?</Question>
+		  <Correct>Para hindi mabasa at masira</Correct>
+		  <Choices>Para hindi mabasa at masira|Para maging mabigat ang basura|Para magkulay ang papel</Choices>
+	  </Item>
+	  <Item>
+		  <Question>Saan ilalagay ang mga plastic wrapper?</Question>
+		  <Correct>Sa di-nabubulok</Correct>
+		  <Choices>Sa di-nabubulok|Sa nabubulok|Sa recyclable box</Choices>
+	  </Item>
+	  <Item>
+		  <Question>Ano ang mungkahi ng tatay kapag namimili?</Question>
+		  <Correct> Gumamit ng eco bag at reusable na lalagyan</Correct>
+		  <Choices> Gumamit ng eco bag at reusable na lalagyan|Gumamit ng maraming plastic bag|Bumili ng mas maraming wrapper</Choices>
+	  </Item>
+  </Level1>
+
+  <Level2>
+    <Item><Question>Question1</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question2</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question3</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question4</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question5</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question6</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question7</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question8</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question9</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question10</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+  </Level2>
+  
+  <Level3>
+    <Item><Question>Question1</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question2</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question3</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question4</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question5</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question6</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question7</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question8</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question9</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+    <Item><Question>Question10</Question><Correct>correct</Correct><Choices>correct,wrong1,wrong2</Choices></Item>
+  </Level3>
+
+</Itembank>
