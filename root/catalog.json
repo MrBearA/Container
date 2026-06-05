@@ -60,6 +60,29 @@
       "grade": "Grade 3",
       "category": "Pagbasa at Pakikinig",
       "unit": "Kabanata 4"
+    },
+
+    {
+      "gameID": "109_1",
+      "title": "Maikling kuwento",
+      "grade": "Grade 5",
+      "category": "Pagbasa at Pakikinig",
+      "unit": "Kabanata 2"
+    },
+
+    {
+      "gameID": "110_1",
+      "title": "Batis ng impormasyon o Sanggunian",
+      "grade": "Grade 5",
+      "category": "Pagbasa at Pakikinig",
+      "unit": "Kabanata 2"
+    },
+
+    {
+      "gameID": "111_1",
+      "title": "Pagmamalabis",
+      "grade": "Grade 5",
+      "category": "Pagbasa at Pakikinig",
+      "unit": "Kabanata 3"
     }
-  ]
 }
